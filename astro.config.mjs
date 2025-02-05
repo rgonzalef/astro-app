@@ -8,6 +8,4 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
-  site: 'https://rgonzalef.github.io',
-  base: 'astro-app',
 })
